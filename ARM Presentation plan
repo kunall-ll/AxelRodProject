@@ -1,0 +1,14 @@
+
+
+### PRESENTATION PLAN ###
+
+START WITH:
+
+explain prisoners dilemma 
+created player vs player version of prisoner's dilemma on the microbit (their product)
+talk about implementing already established strategies and how we coded them
+we added a machine learning application for PD - helps the player guess the AI's strategy 
+using this, it supplies the user with their next best move
+
+demonstrate the game 
+show them the code 
