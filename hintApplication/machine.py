@@ -62,7 +62,7 @@ def mainLoop():
 	trainingSet=[]
 	testSet=[]
 	split = 0.80
-	loadDataset('C:\Users\Wagg9\Desktop\previousGames.csv', split, trainingSet, testSet)
+	loadDataset('previousGames.csv', split, trainingSet, testSet)
 	print('Train set: ' + repr(len(trainingSet)))
 	print('Test set: ' + repr(len(testSet)))
 	# generate predictions
